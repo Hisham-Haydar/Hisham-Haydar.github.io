@@ -20,7 +20,7 @@ repository               : "Hisham-Haydar/hisham-haydar.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  avatar           : "images/pic.jfif"
+  avatar           : "pic.jfif"
   name             : "Hisham Haydar"
   bio              : "PhD candidate at the <a href='https://www.uni.lu/en/'>University of Luxembourg</a> working at <a href='https://www.liser.lu/'>LISER</a>. My research focuses on labor supply, social choice, inequalities, and optimal taxation."
   location         : "Luxembourg"
@@ -46,7 +46,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
