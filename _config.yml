@@ -22,9 +22,9 @@ repository               : "Hisham-Haydar/hisham-haydar.github.io"
 author:
   avatar           : "pic.jfif"
   name             : "Hisham Haydar"
-  bio              : "PhD candidate at the <a href='https://www.uni.lu/en/'>University of Luxembourg</a> working at <a href='https://www.liser.lu/'>LISER</a>. My research focuses on labor supply, social choice, inequalities, and optimal taxation."
+  bio              : "My research focuses on labor supply, social choice, inequalities, and optimal taxation."
   location         : "Luxembourg"
-  employer         : "University of Luxembourg & LISER"
+  employer         : "<a href='https://www.uni.lu/en/'>University of Luxembourg</a> & <a href='https://www.liser.lu/'>LISER</a>"
   uri              : "https://hisham-haydar.github.io"
   email            : "Hisham.Haydar@liser.lu"
 
