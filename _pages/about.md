@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-### About
 
 I am a PhD candidate in Economics at the University of Luxembourg, working at LISER (Luxembourg Institute of Socio-Economic Research). My research focuses on labor supply, social choice, inequalities, and optimal taxation. I am particularly interested in ex-ante policy analysis and structural models that assess the impact of various policy interventions before they are implemented. One of the key tools I utilize in my research is **EUROMOD**, a tax-benefit microsimulation model, which I use to conduct detailed analyses of the distributive effects of fiscal policies across the European Union.
 
