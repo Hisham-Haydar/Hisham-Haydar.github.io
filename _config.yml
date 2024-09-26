@@ -15,7 +15,6 @@ description              : &description "PhD Candidate in Economics, specializin
 url                      : "https://hisham-haydar.github.io/"
 baseurl                  : "" # This remains blank if the site is hosted at the root of the domain.
 repository               : "Hisham-Haydar/hisham-haydar.github.io" 
-"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
